@@ -13,16 +13,16 @@
                 <tr>
             <td><h2>President: </h2>
             <asp:RadioButtonList ID="rblPres" runat="server">
-            <asp:ListItem>Mark Christian Sevilleno (LIPAD)</asp:ListItem>
-                <asp:ListItem>Alvie De Sahagun (LEGIT)</asp:ListItem>
+            <asp:ListItem>CANDIDATE 1 Pres (PartyList1)</asp:ListItem>
+                <asp:ListItem>CANDIDATE 2 Pres (PartyList2)</asp:ListItem>
                 <asp:ListItem Selected="True">None</asp:ListItem>
                 </asp:RadioButtonList><br />
                     </td>
                     <td>
             <h2>Vice President: </h2>
             <asp:RadioButtonList ID="rblVpres" runat="server">
-                <asp:ListItem>Mayu Javier (LIPAD)</asp:ListItem>
-                <asp:ListItem>Raizza Flores (LEGIT)</asp:ListItem>
+                <asp:ListItem>CANDIDATE 1 Vpres (PartyList1)</asp:ListItem>
+                <asp:ListItem>CANDIDATE 2 Vpres (PartyList2)</asp:ListItem>
                 <asp:ListItem Selected="True">None</asp:ListItem>
             </asp:RadioButtonList><br />
                     </td>
@@ -32,16 +32,16 @@
                     <td>
             <h2>Secretary: </h2>
             <asp:RadioButtonList ID="rblSec" runat="server">
-                <asp:ListItem>Patricia Caluag (LIPAD)</asp:ListItem>
-                <asp:ListItem>Danella Castillo (LEGIT)</asp:ListItem>
+                <asp:ListItem>CANDIDATE 1 Sec (PartyList1)</asp:ListItem>
+                <asp:ListItem>CANDIDATE 2 Sec (PartyList2)</asp:ListItem>
                 <asp:ListItem Selected="True">None</asp:ListItem>
             </asp:RadioButtonList><br />
                     </td>
                     <td>
             <h2>Treasurer: </h2>
             <asp:RadioButtonList ID="rblTreas" runat="server">
-                <asp:ListItem>Janna Samson (LIPAD)</asp:ListItem>
-                <asp:ListItem>Jorie Iligan (LEGIT)</asp:ListItem>
+                <asp:ListItem>CANDIDATE 1 TREAS (PartyList1)</asp:ListItem>
+                <asp:ListItem>CANDIDATE 2 TREAS (PartyList2)</asp:ListItem>
                 <asp:ListItem Selected="True">None</asp:ListItem>
             </asp:RadioButtonList><br />
                     </td>
@@ -51,16 +51,16 @@
                     <td>
             <h2>Auditor: </h2>
             <asp:RadioButtonList ID="rblAud" runat="server">
-                <asp:ListItem>Jomari Vasallo (LIPAD)</asp:ListItem>
-                <asp:ListItem>Don Villaroman (LEGIT)</asp:ListItem>
+                <asp:ListItem>CANDIDATE 1 AUD (PartyList1)</asp:ListItem>
+                <asp:ListItem>CANDIDATE 2 AUD (PartyList2)</asp:ListItem>
                 <asp:ListItem Selected="True">None</asp:ListItem>
             </asp:RadioButtonList><br />
                     </td>
                     <td>
-            <h2>P.R.O. (Female): </h2>
+            <h2>P.R.O.: </h2>
             <asp:RadioButtonList ID="rblPro" runat="server">
-                <asp:ListItem>Geraldine Cuevas (LIPAD)</asp:ListItem>
-                <asp:ListItem>Julie Dimla (LEGIT)</asp:ListItem>
+                <asp:ListItem>CANDIDATE 1 PRO (PartyList1)</asp:ListItem>
+                <asp:ListItem>CANDIDATE 2 PRO (PartyList2)</asp:ListItem>
                 <asp:ListItem Selected="True">None</asp:ListItem>
             </asp:RadioButtonList><br />
                     </td>
@@ -68,18 +68,18 @@
 
                 <tr>
                     <td>
-            <h2>P.R.O. (Male): </h2>
+            <h2>Representative 1: </h2>
             <asp:RadioButtonList ID="rblG11r" runat="server">
-                <asp:ListItem>Ethan Jesther Mendez (LIPAD)</asp:ListItem>
-                <asp:ListItem>Mark John Villafane (LEGIT)</asp:ListItem>
+                <asp:ListItem>CANDIDATE 1 REPR1 (PartyList1)</asp:ListItem>
+                <asp:ListItem>CANDIDATE 2 REPR1 (PartyList2)</asp:ListItem>
                 <asp:ListItem Selected="True">None</asp:ListItem>
             </asp:RadioButtonList><br />
                     </td>
                     <td>
-            <h2>Grade 12 Representative: </h2>
+            <h2>Representative 2: </h2>
             <asp:RadioButtonList ID="rblG12r" runat="server">
-                <asp:ListItem>Allyssa Sarmiento (LIPAD)</asp:ListItem>
-                <asp:ListItem>Raechel Rola (LEGIT)</asp:ListItem>
+                <asp:ListItem>CANDIDATE 1 REPR2 (PartyList1)</asp:ListItem>
+                <asp:ListItem>CANDIDATE 2 REPR2 (PartyList2)</asp:ListItem>
                 <asp:ListItem Selected="True">None</asp:ListItem>
             </asp:RadioButtonList>
                     </td>
@@ -88,10 +88,10 @@
                 <!--
 				<tr>
 					<td>
-			<h2>4th Year Representative: </h2>
+			<h2>Representative 3: </h2>
             <asp:RadioButtonList ID="rblG13r" runat="server">
-                <asp:ListItem>Unizel Medina (LIPAD)</asp:ListItem>
-                <asp:ListItem>Patricia Patawaran (LEGIT)</asp:ListItem>
+                <asp:ListItem>CANDIDATE 1 REPR3 (PartyList1)</asp:ListItem>
+                <asp:ListItem>CANDIDATE 2 REPR3 (PartyList2)</asp:ListItem>
                 <asp:ListItem Selected="True">None</asp:ListItem>
             </asp:RadioButtonList>		
 					</td>

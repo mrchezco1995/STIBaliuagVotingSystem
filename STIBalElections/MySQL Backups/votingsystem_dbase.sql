@@ -39,7 +39,7 @@ CREATE TABLE `candidates` (
 
 LOCK TABLES `candidates` WRITE;
 /*!40000 ALTER TABLE `candidates` DISABLE KEYS */;
-INSERT INTO `candidates` VALUES (1,'Mark Christian Sevilleno','President','LIPAD'),(2,'Mayu Javier','Vice President','LIPAD'),(3,'Patricia Caluag','Secretary','LIPAD'),(4,'Janna Samson','Treasurer','LIPAD'),(5,'Jomari Vasallo','Auditor','LIPAD'),(6,'Geraldine Cuevas','P.R.O._F','LIPAD'),(7,'Ethan Jesther Mendez','P.R.O._M','LIPAD'),(8,'Allyssa Sarmiento','Grade 12 Representative','LIPAD'),(11,'Alvie De Sahagun','President','LEGIT'),(12,'Raizza Flores','Vice President','LEGIT'),(13,'Danella Castillo','Secretary','LEGIT'),(14,'Jorie Iligan','Treasurer','LEGIT'),(15,'Don Villaroman','Auditor','LEGIT'),(16,'Julie Dimla','P.R.O._F','LEGIT'),(17,'Mark John Villafane','P.R.O._M','LEGIT'),(18,'Raechel Rola','Grade 12 Representative','LEGIT');
+INSERT INTO `candidates` VALUES (1,'CANDIDATE 1 Pres','President','PartyList1'),(2,'CANDIDATE 1 Vpres','Vice President','PartyList1'),(3,'CANDIDATE 1 Sec','Secretary','PartyList1'),(4,'CANDIDATE 1 Treas','Treasurer','PartyList1'),(5,'CANDIDATE 1 AUD','Auditor','PartyList1'),(6,'CANDIDATE 1 PRO','P.R.O._F','PartyList1'),(7,'CANDIDATE 1 REPR1','P.R.O._M','PartyList1'),(8,'CANDIDATE 1 REPR2','Grade 12 Representative','PartyList1'),(11,'CANDIDATE 2 Pres','President','PartyList2'),(12,'CANDIDATE 2 Vpres','Vice President','PartyList2'),(13,'CANDIDATE 2 Sec','Secretary','PartyList2'),(14,'CANDIDATE 2 Treas','Treasurer','PartyList2'),(15,'CANDIDATE 2 AUD','Auditor','PartyList2'),(16,'CANDIDATE 2 PRO','P.R.O._F','PartyList2'),(17,'CANDIDATE 2 REPR1','P.R.O._M','PartyList2'),(18,'CANDIDATE 2 REPR2','Grade 12 Representative','PartyList2');
 /*!40000 ALTER TABLE `candidates` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -90,4 +90,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-03-05 22:32:03
+-- Dump completed on 2018-03-06 20:48:21

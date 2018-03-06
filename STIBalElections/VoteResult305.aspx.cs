@@ -417,7 +417,7 @@ namespace STIBalElections
         {
             //Enter this password to access hidden page...
 
-            if (txtPass.Text == "sticollegebaliuagshs")
+            if (txtPass.Text == "password12345")
             {
                 gentable();
                 dvAuth.Visible = false;

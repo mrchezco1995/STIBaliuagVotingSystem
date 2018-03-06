@@ -3,8 +3,8 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div runat="server" id=userreg class="jumbotron">
-        <h1 style="text-align:center;">STI Supreme Student Government Elections</h1>
-        <center><img src="stilogo.png" style="width:15%; height:15%;" /> &nbsp &nbsp &nbsp <img src="stissglogo.png" style="width:15%; height:15%;" /></center>
+        <h1 style="text-align:center;">My Voting System</h1>
+        <center><img src="Images/if_Election_1934653.png" style="width:15%; height:15%;" /> &nbsp &nbsp &nbsp <img src="Images/if_Vote_1934657.png" style="width:15%; height:15%;" /></center>
         <p class="lead" style="text-align:center">Please Enter your name and Year/Course before we can continue.</p>
 
              <table style="margin-left:auto; margin-right: auto; margin-top:50px; width: 80%;">

@@ -143,10 +143,16 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="Ballot.aspx" />
-    <Content Include="MySQL Backups\votingsystemdbase.sql" />
+    <Content Include="Images\if_deviantart_1279051.png" />
+    <Content Include="Images\if_Election_1934653.png" />
+    <Content Include="Images\if_facebook_circle_color_107175.png" />
+    <Content Include="Images\if_twitter_circle_color_107170.png" />
+    <Content Include="Images\if_Vote_1934657.png" />
+    <Content Include="Images\if_youtube_circle_color_107167.png" />
+    <Content Include="Images\if_youtube_circle_color_107167_black.png" />
+    <Content Include="Images\vs___vs___programming_is_bloody_magic_by_mrchezco1995-da9cfov.png" />
+    <Content Include="MySQL Backups\votingsystem_dbase.sql" />
     <Content Include="restricted.png" />
-    <Content Include="stilogo.png" />
-    <Content Include="stissglogo.png" />
     <Content Include="Success.aspx" />
     <Content Include="VoteResult305.aspx" />
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />

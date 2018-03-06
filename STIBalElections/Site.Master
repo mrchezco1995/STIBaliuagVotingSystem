@@ -6,7 +6,7 @@
 <head runat="server">
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title><%: Page.Title %> - STI SSG Elections</title>
+    <title><%: Page.Title %> - My Voting System</title>
 
     <asp:PlaceHolder runat="server">
         <%: Scripts.Render("~/bundles/modernizr") %>
@@ -47,7 +47,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" runat="server" href="~/">STI SSG Elections</a>
+                    <a class="navbar-brand" runat="server" href="~/">My Voting System</a>
                 </div>
                 <!-- <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
@@ -63,7 +63,7 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
-                <p>&copy; <%: DateTime.Now.Year %> - STI College Baliuag - Coded with Love by Renz Hernandez (MrChezco1995/TechKidPH) . <a href="About.aspx">About this project.</a></p>
+                <p>&copy; <%: DateTime.Now.Year %> - Coded with Love by Renz Hernandez (MrChezco1995/TechKidPH) . <a href="About.aspx">About this project.</a></p>
             </footer>
         </div>
 
